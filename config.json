@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpelete",
+        "uuid": 9588976,
+        "checksum": "o5d0r"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
